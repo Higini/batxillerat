@@ -1,0 +1,2 @@
+# batxillerat
+Python per Batxillerat
